@@ -31,6 +31,10 @@ Esta etapa define o nome do banco, o modelo de computação e o custo.
 * **vCores:** 1 vCore
 * **Armazenamento Máximo:** 32 GB
 
-**(Aqui você deve inserir a imagem da Revisão Final / Custo estimado):**
-```markdown
-![Configuração de Revisão e Custo](images/01-Revisao-Custo.png)
+![Revisão Final da Configuração e Custo Estimado](01-Revisao-Custo.png)
+
+<img width="1019" height="822" alt="01-Revisao-Custo" src="https://github.com/user-attachments/assets/56c86497-7a96-4360-bbbb-4e6ff6d93732" />
+
+![Tela de Implantação Concluída no Azure](02-Implantacao-Sucesso.png)
+
+<img width="960" height="371" alt="02-Implantacao-Sucesso" src="https://github.com/user-attachments/assets/19023227-da46-4bc0-8c26-e3162b74c220" />
