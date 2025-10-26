@@ -17,7 +17,7 @@ Antes de criar o banco de dados, foi necessário definir o ambiente lógico no A
 | Configuração | Detalhes da Configuração |
 | :--- | :--- |
 | **Grupo de Recursos** | `RG-DIO-SQL-Desafio` (Criado para isolamento e gerenciamento dos recursos). |
-| **Servidor Lógico** | `desafioserverXXXX` (Novo servidor lógico, o ponto de acesso para o banco). |
+| **Servidor Lógico** | `desafioserver` (Novo servidor lógico, o ponto de acesso para o banco). |
 | **Login do Administrador** | `Alexderik` |
 | **Localização** | `Brazil South` (Região escolhida). |
 
